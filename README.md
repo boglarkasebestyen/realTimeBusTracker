@@ -23,6 +23,8 @@ Clone the respository and open the index.html file in your browser of choice.
 ## Additional information
 I also have an implementation of a moving marker on the BART route from San Francisco to San Jose, California. However, this was done by providing every BART station's location coordinate. The files for this version are uploaded [here](https://github.com/boglarkasebestyen/boglarkasebestyen.github.io/tree/master/1st_semester_assignments/bartTracker).
 
+## Live demo
+Take a look at the project [here](https://boglarkasebestyen.github.io/busTracker/index.html).
 
 # License
 
