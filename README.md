@@ -12,7 +12,6 @@ The tracker is implemented using the [mapbox](https://www.mapbox.com) JavaScript
 
 </p>
 
-
 ## How to run
 
 Clone the respository and open the index.html file in your browser of choice. 
