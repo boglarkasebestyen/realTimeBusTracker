@@ -22,7 +22,7 @@ Clone the respository and opend the index.html file in your browser of choice.
 * Adding a marker on the starter- and the destination point.
 
 ## Additional information
-I also have an implementation of a moving marker on the BART route from San Francisco to San Jose, California. However, this was done by providing every BART station's location coordinate. This files for this version are uploaded [here](https://github.com/boglarkasebestyen/boglarkasebestyen.github.io/tree/master/1st_semester_assignments/bartTracker).
+I also have an implementation of a moving marker on the BART route from San Francisco to San Jose, California. However, this was done by providing every BART station's location coordinate. The files for this version are uploaded [here](https://github.com/boglarkasebestyen/boglarkasebestyen.github.io/tree/master/1st_semester_assignments/bartTracker).
 
 
 # License
