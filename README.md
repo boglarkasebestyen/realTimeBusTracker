@@ -15,7 +15,7 @@ The tracker is implemented using the [mapbox](https://www.mapbox.com) JavaScript
 
 ## How to run
 
-Clone the respository and opend the index.html file in your browser of choice. 
+Clone the respository and open the index.html file in your browser of choice. 
 
 ## Future improvements
 * Using an API that covers a Californian transportation route, such as BART for Northern California. 
