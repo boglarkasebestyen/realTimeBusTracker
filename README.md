@@ -1,5 +1,5 @@
 # Real-time Bus Tracker
---
+
 This exercise demonstrates checking active bus routes in real time located between Boston University and MIT in Boston, MA and shows the buses on the map by having a marker on them. Please, be aware that the update is slow.
 <br/>
 <br/>
@@ -8,9 +8,10 @@ The tracker is implemented using the [mapbox](https://www.mapbox.com) JavaScript
 
 <p align="center">
 
-<iframe src="https://giphy.com/embed/uJjAWcLq3OZf6JpZvw" width="480" height="334" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/uJjAWcLq3OZf6JpZvw">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/uJjAWcLq3OZf6JpZvw/giphy.gif"/>
 
 </p>
+
 
 ## How to run
 
@@ -25,7 +26,7 @@ I also have an implementation of a moving marker on the BART route from San Fran
 
 
 # License
---
+
 MIT License
 
 Copyright (c) 2021 Boglárka Sebestyén
