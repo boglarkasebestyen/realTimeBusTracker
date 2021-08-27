@@ -1,6 +1,6 @@
 # Real-time Bus Tracker
 
-This exercise demonstrates checking active bus routes in real time located between Boston University and MIT in Boston, MA and shows the buses on the map by having a marker on them. Please, be aware that the update is slow.
+This exercise demonstrates checking active bus routes in real time located between Boston University and MIT in Boston, MA and shows the buses on the map by having a marker on them. In order to not put too much stress on the API, the positions are only updated in every 15 seconds.
 <br/>
 <br/>
 The tracker is implemented using the [mapbox](https://www.mapbox.com) JavaScript library and requesting data using the [API](https://www.mbta.com/developers) of the Massachusetts Bay Transportartion Authority. The implementation includes key concepts such as DOM manipulation and asynchronous programming. 
