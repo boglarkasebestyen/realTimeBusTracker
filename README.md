@@ -1,8 +1,6 @@
 # Real-time Bus Tracker
 
-This is 1 out of 3 of my 1st semester final assignments via MIT xPro's Fullstack with MERN course. It demonstrates the frontend side of a single page banking application built on following the provided user stories and with the help of the provided starter code. I have refactored its design, implemented the components, added additional validation criteria, as well as used React Context in order to share the required data between the components.
-
-
+This is 1 out of 3 of my 1st semester final assignments via MIT xPro's Fullstack with MERN course. 
 The exercise demonstrates checking active bus routes in real time located between Boston University and MIT in Boston, MA and shows the buses on the map by having a marker on them. In order to not put too much stress on the API, the positions are only updated in every 15 seconds.
 <br/>
 <br/>
